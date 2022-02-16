@@ -162,7 +162,7 @@ GITHUB_ACCESS_TOKEN = os.environ.get("GITHUB_ACCESS_TOKEN", None)
 
 # Custom (forked) repo URL for updater.
 UPSTREAM_REPO_URL = os.environ.get(
-    "UPSTREAM_REPO_URL", "https://github.com/poocong/PocongUserbot.git"
+    "UPSTREAM_REPO_URL", "https://github.com/kenaja/PocongUserbot.git"
 )
 
 # Custom name sticker pack
