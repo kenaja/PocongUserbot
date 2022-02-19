@@ -41,8 +41,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan dengan bijak.
 <details>
     <summary> <b>🔗 Deploy Pocong Userbot</b></summary><br/>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/kenaja/PocongUserbot1"> <img 
-src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/kenaja/PocongUserbot1"><img src="https://img.shields.io/badge/Deploy%20Lewat%20Web%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200"" /></a></p>
 
 <p align="center"><a href="https://telegram.dog/XTZ_HerokuBot?start=cG9vY29uZy9Qb2NvbmdVc2VyYm90IG1haW4"><img src="https://img.shields.io/badge/Deploy%20Lewat%20Bot%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200"" /></a></p>
 
